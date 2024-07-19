@@ -225,7 +225,7 @@ library(ggrepel)
 You need to run `install.packages("ggrepel")` to install the package.
 
 ## Running R code
-
+There isn't previous section of these examples...
 The previous section showed you several examples of running R code.
 The code in the book looks like this:
 
